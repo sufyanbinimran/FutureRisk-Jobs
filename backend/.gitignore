@@ -1,3 +1,4 @@
-venv
-instance
-__pycache__
+echo node_modules/ >> .gitignore
+echo .env >> .gitignore
+echo venv/ >> .gitignore
+echo __pycache__/ >> .gitignore
