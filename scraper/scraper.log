@@ -1,0 +1,10 @@
+2025-06-12 19:57:08,297 - INFO - Starting Actuary List scraper
+2025-06-12 19:57:08,298 - INFO - Starting to scrape jobs from https://www.actuarylist.com/jobs
+2025-06-12 19:57:08,298 - INFO - ====== WebDriver manager ======
+2025-06-12 19:57:09,793 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-12 19:57:10,261 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-12 19:57:10,700 - INFO - Driver [C:\Users\Microsoft\.wdm\drivers\chromedriver\win64\137.0.7151.70\chromedriver-win32/chromedriver.exe] found in cache
+2025-06-12 19:57:29,437 - INFO - Scraping page 1
+2025-06-12 19:57:29,529 - WARNING - No job elements found, trying alternative approach
+2025-06-12 19:57:29,545 - ERROR - No job listings found on the page
+2025-06-12 19:57:31,721 - INFO - Scraping completed. Total jobs scraped: 0

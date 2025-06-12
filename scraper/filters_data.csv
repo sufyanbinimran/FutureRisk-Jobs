@@ -1,0 +1,232 @@
+Type,Name,Count
+City,All cities968,968
+City,London164,164
+City,Remote82,82
+City,New York NY76,76
+City,Bangalore57,57
+City,Chicago IL55,55
+City,Boston MA43,43
+City,Munich40,40
+City,Atlanta GA38,38
+City,Saint Paul MN36,36
+City,Singapore35,35
+City,Toronto32,32
+City,Hartford CT21,21
+City,Noida19,19
+City,Parsippany NJ19,19
+City,Seattle WA17,17
+City,Manchester16,16
+City,Philadelphia PA15,15
+City,Sydney15,15
+City,Charlotte NC13,13
+City,Zürich13,13
+City,Hong Kong12,12
+City,Oakland CA12,12
+City,Orlando FL11,11
+City,Bristol10,10
+City,Edinburgh10,10
+City,Dublin9,9
+City,Glasgow9,9
+City,Hanover9,9
+City,Seoul9,9
+City,Armonk NY8,8
+City,Birmingham8,8
+City,Denver CO8,8
+City,Hove8,8
+City,Leeds8,8
+City,Rosemont IL8,8
+City,Sun Prairie WI8,8
+City,Cincinnati OH7,7
+City,Dallas TX7,7
+City,Indianapolis IN7,7
+City,Kuala Lumpur7,7
+City,Lisbon7,7
+City,Nashville TN7,7
+City,Columbus OH6,6
+City,Houston TX6,6
+City,Kansas City MO6,6
+City,Mexico City6,6
+City,Minnetonka MN6,6
+City,Portland OR6,6
+City,Shanghai6,6
+City,Jersey City NJ5,5
+City,Johannesburg5,5
+City,Louisville KY5,5
+City,Madrid5,5
+City,Paris5,5
+City,Princeton NJ5,5
+City,Woonsocket RI5,5
+City,Arlington VA4,4
+City,Austin TX4,4
+City,Bloomfield NJ4,4
+City,Des Moines IA4,4
+City,Los Angeles CA4,4
+City,Melbourne4,4
+City,Minneapolis MN4,4
+City,Potters Bar4,4
+City,Richmond VA4,4
+City,Rolling Meadows IL4,4
+City,San Antonio TX4,4
+City,San Francisco CA4,4
+City,Stratford-upon-Avon4,4
+City,Taguig4,4
+City,Canberra3,3
+City,Fort Wayne IN3,3
+City,Hunt Valley MD3,3
+City,Morristown NJ3,3
+City,Mumbai3,3
+City,Omaha NE3,3
+City,Petaling Jaya3,3
+City,Plano TX3,3
+City,Reading3,3
+City,Reigate3,3
+City,Schaumburg IL3,3
+City,Tampa FL3,3
+City,Tempe AZ3,3
+City,Baltimore MD2,2
+City,Bedford TX2,2
+City,Belfast2,2
+City,Bermuda2,2
+City,Bloomington IL2,2
+City,Blue Bell PA2,2
+City,Brussels2,2
+City,Budapest2,2
+City,Detroit MI2,2
+City,Dubai2,2
+City,Eden Prairie MN2,2
+City,Glen Allen VA2,2
+City,Grand Rapids MI2,2
+City,Hamilton2,2
+City,Irvine CA2,2
+City,Jacksonville FL2,2
+City,Miami FL2,2
+City,Milan2,2
+City,Milwaukee WI2,2
+City,Montreal2,2
+City,Newport Beach CA2,2
+City,Northfield Township IL2,2
+City,Pasadena CA2,2
+City,Pembroke2,2
+City,Phoenix AZ2,2
+City,Pittsburgh PA2,2
+City,Potomac MD2,2
+City,Prague2,2
+City,Summit NJ2,2
+City,São Paulo2,2
+City,Vienna2,2
+City,Wilton CT2,2
+City,Albany NY1,1
+City,Alexandria VA1,1
+City,Alpharetta GA1,1
+City,Beijing1,1
+City,Birmingham AL1,1
+City,Boca Raton FL1,1
+City,Boise ID1,1
+City,Bratislava1,1
+City,Bridgewater NJ1,1
+City,Brisbane1,1
+City,Brookfield WI1,1
+City,Buenos Aires1,1
+City,Cape Town1,1
+City,Cardiff1,1
+City,Cedar Rapids IA1,1
+City,Cleveland OH1,1
+City,Cologne1,1
+City,Costa Mesa CA1,1
+City,Croydon1,1
+City,Davenport IA1,1
+City,Dayton OH1,1
+City,Diegem1,1
+City,Farmington CT1,1
+City,Folkestone1,1
+City,Fort Worth TX1,1
+City,Franklin MA1,1
+City,Fresno CA1,1
+City,Galveston TX1,1
+City,Gurgaon1,1
+City,Harrisburg PA1,1
+City,Hoofddorp1,1
+City,Hyattsville MD1,1
+City,Istanbul1,1
+City,Krakow1,1
+City,Las Vegas NV1,1
+City,Leatherhead1,1
+City,Macclesfield1,1
+City,Marblehead MA1,1
+City,McLean VA1,1
+City,Memphis TN1,1
+City,Midland MI1,1
+City,New Orleans LA1,1
+City,Ramat Gan1,1
+City,Red Bank NJ1,1
+City,Richardson TX1,1
+City,Rotterdam1,1
+City,Salford1,1
+City,Scottsdale AZ1,1
+City,Short Hills NJ1,1
+City,St Louis MO1,1
+City,St Paul MN1,1
+City,Staines1,1
+City,Stamford CT1,1
+City,Taipei City1,1
+City,The Hague1,1
+City,Tokyo1,1
+City,Walnut Creek CA1,1
+City,Whippany NJ1,1
+City,Woodland Hills CA1,1
+City,York1,1
+Tag,All tags968,968
+Tag,Risk776,776
+Tag,Pricing570,570
+Tag,Reporting461,461
+Tag,Coding444,444
+Tag,Microsoft Excel427,427
+Tag,Modelling421,421
+Tag,Reserving356,356
+Tag,Reinsurance342,342
+Tag,SQL326,326
+Tag,R298,298
+Tag,Python284,284
+Tag,Valuation251,251
+Tag,SAS195,195
+Tag,Systems191,191
+Tag,Consulting163,163
+Tag,VBA159,159
+Tag,Motor120,120
+Tag,Power BI101,101
+Tag,Data Science86,86
+Tag,Prophet59,59
+Tag,Bulk Annuities56,56
+Tag,AXIS52,52
+Tag,Experience Analysis50,50
+Tag,Longevity35,35
+Tag,ALM25,25
+Tag,Julia19,19
+Tag,Tableau19,19
+Tag,Capital18,18
+Tag,Marine18,18
+Tag,ResQ17,17
+Tag,Alteryx15,15
+Tag,Data15,15
+Tag,MoSes15,15
+Tag,RAFM15,15
+Tag,Contract14,14
+Tag,C++12,12
+Tag,MG-ALFA12,12
+Tag,Machine Learning12,12
+Tag,Products10,10
+Tag,Radar10,10
+Tag,Emblem9,9
+Tag,C#8,8
+Tag,MATLAB7,7
+Tag,Igloo6,6
+Tag,ReMetrica6,6
+Tag,Databricks5,5
+Tag,Tyche5,5
+Tag,Marketing3,3
+Tag,Oracle3,3
+Tag,Cyber2,2
+Tag,JavaScript2,2
+Tag,Microsoft Azure2,2
+Tag,Takaful2,2
+Tag,Psicle1,1
