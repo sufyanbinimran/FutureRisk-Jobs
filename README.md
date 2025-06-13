@@ -1,5 +1,8 @@
 # 🚀 FutureRisk Jobs – Full-Stack Job Board Application
 
+vimeo video link : https://vimeo.com/1093064966?share=copy 
+listen on 2x for better experince 
+
 FutureRisk Jobs is a full-stack MERN-style (MongoDB alternative: **MySQL** used here) job board web application. It allows users to view, post, edit, and delete actuarial job listings. The application consists of:
 
 - 🌐 **Frontend** (React)
